@@ -1,0 +1,9 @@
+
+.ui container {
+    padding-top: 25px;
+}
+.ui container h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-align: center;
+} 
