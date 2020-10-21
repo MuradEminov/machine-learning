@@ -1,9 +1,22 @@
+ #header-container{
+    background-color: black;
+}
 
 .ui container {
-    padding-top: 25px;
+    top: 25px; 
 }
 .ui container h2{
     font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
     text-align: center;
 } 
+
+.ml2 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
