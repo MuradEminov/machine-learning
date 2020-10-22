@@ -1,0 +1,18 @@
+ #header-container{
+    background-color: black;
+}
+
+
+
+/* 
+Text animation CSS  */
+.ml2 {
+  font-weight: 900;
+  font-size: 2em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
